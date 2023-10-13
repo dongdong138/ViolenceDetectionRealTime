@@ -6,7 +6,7 @@ Violence Detection Real Time
 1. Clone this repository.
    
     ```
-    python train.py
+    git clone https://github.com/dongdong138/ViolenceDetectionRealTime.git
     ```  
 3. Create a virtual environment and activate it.
    
